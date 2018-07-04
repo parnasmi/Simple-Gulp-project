@@ -1,0 +1,10 @@
+/node_modules/
+/bower_components/
+/assets/
+/temp/
+/Design/
+.DS_Store
+Thumbs.db
+*.sublime*
+*.log
+*.psd
