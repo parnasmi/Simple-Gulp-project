@@ -3,6 +3,8 @@
 /assets/
 /temp/
 /Design/
+/design/
+/build/
 .DS_Store
 Thumbs.db
 *.sublime*
